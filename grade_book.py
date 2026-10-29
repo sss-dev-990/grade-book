@@ -44,4 +44,4 @@ elif choice == "1":
     add_student()
         
 if __name__ == "__main__": 
-         main()
+     
